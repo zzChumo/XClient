@@ -4,6 +4,7 @@
 
 想要了解有关商用/二次修改并发布本项目的注意事项请运行/访问项目的index.html。
 
-感谢Gitee@liguiyu102210对本项目的支持。
+__感谢Gitee@liguiyu102210对本项目的支持。__
+
 ---
 ©Copyright 2017-2022 GS Team.
