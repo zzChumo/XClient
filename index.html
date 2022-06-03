@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>zzChat</title>
+        <script>
+            function lang(){
+                var lang=navigator.language||navigator.userLanguage;
+                lang=lang.substr(0,2);
+                if(lang=='zh'){
+                    window.location.replace('ch/index.html');
+                }else{
+                    window.location.replace('en/index.html');
+					
+                }
+            }
+        </script>
+    </head>
+    <body onload="lang()"></body>
+</html>
